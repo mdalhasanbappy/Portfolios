@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Professional Survey Visualization</title>
-</head>
 <body>
     <h1>Insights from Data Professional Survey Visualization</h1>
     <p>This project visualizes the results of a survey conducted among data professionals. Key insights include:</p>
