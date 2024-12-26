@@ -32,7 +32,7 @@ The data for this project comes from a survey conducted among data professionals
 The raw data file is available in the repository as [9. Power BI - Final Project.xlsx](./9.%20Power%20BI%20-%20Final%20Project.xlsx).
 
 ## Visualization Highlights
-![Dashboard Overview](./Alex%20Data%20Professional%20Survey%20Data%20Visualization_page-0001.jpg)
+![Dashboard Overview](https://github.com/mdalhasanbappy/Portfolios/blob/main/MS%20Power%20BI/Alex%20Data%20Professional%20Survey%20Data%20Visualization/Alex%20Data%20Professional%20Survey%20Data%20Visualization.jpg)
 
 Key insights include:
 1. **Average Salary by Job Title**: Data scientists earn the highest average salary, followed by data architects and data engineers.
@@ -49,4 +49,4 @@ Key insights include:
 To explore the dashboard:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/data-professional-survey.git
+   git clone https://github.com/mdalhasanbappy/data-professional-survey.git
