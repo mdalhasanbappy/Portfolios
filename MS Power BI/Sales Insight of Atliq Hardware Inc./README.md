@@ -1,8 +1,3 @@
-Here's a professional and recruiter-friendly `README.md` for your "Sales Insight" project:
-
----
-
-```markdown
 # Sales Insights Dashboard
 
 ![Sales Insights](./Sales%20Insights%20-%20Data%20Analysis%20Project%20Code%20Basics.jpg)
@@ -104,7 +99,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## 🤝 Connect with Me
 If you’re interested in this project or have any questions, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mdalhasanbappy) or reach out via email at mdalhasanbappy@gmail.com.
 
----
-
-Let me know if you'd like to make further customizations!
-```
