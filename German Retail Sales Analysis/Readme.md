@@ -106,7 +106,7 @@ The Power BI report ([Download PBIX File](https://github.com/mdalhasanbappy/Port
    - Interactive gauges and pie charts for summary statistics.  
 
 ### Dashboard Preview:  
-![Dashboard Screenshot](https://github.com/mdalhasanbappy/Portfolios/blob/main/German%20Retail%20Sales%20Analysis/German_Retail_Industry_Insights_page-0001.jpg)  
+![Dashboard Screenshot](https://github.com/mdalhasanbappy/Portfolios/blob/main/German%20Retail%20Sales%20Analysis/German%20Retail%20Industry%20Insights_page-0001.jpg)  
 
 ---
 
