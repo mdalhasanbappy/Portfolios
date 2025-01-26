@@ -48,7 +48,7 @@ Below are sample visuals from the mid-course project solutions:
 | ![Mid_2.png](https://github.com/mdalhasanbappy/Portfolios/blob/main/MYSQL/Maven%20MYSQL%20Data%20Analysis/Asset/Mid_2.png) | Sample Query Output: Inventory Count |
 | ![Mid_3.png](https://github.com/mdalhasanbappy/Portfolios/blob/main/MYSQL/Maven%20MYSQL%20Data%20Analysis/Asset/Mid_3.png) | Sample Query Output: Active Customers |
 | ![Mid_4.png](https://github.com/mdalhasanbappy/Portfolios/blob/main/MYSQL/Maven%20MYSQL%20Data%20Analysis/Asset/Mid_4.png) | Sample Query Output: Customer Emails |
-| ![Mid_5.png](https://github.com/mdalhasanbappy/Portfolios/blob/main/MYSQL/Maven%20MYSQL%20Data%20Analysis/Asset/Mid_5.png) | Sample Query Output: Film Diversity Analysis |
+| ![Mid_5.1.png](https://github.com/mdalhasanbappy/Portfolios/blob/main/MYSQL/Maven%20MYSQL%20Data%20Analysis/Asset/Mid_5.1.png) ![Mid_5.2.png](https://github.com/mdalhasanbappy/Portfolios/blob/main/MYSQL/Maven%20MYSQL%20Data%20Analysis/Asset/Mid_5.2.png)| Sample Query Output: Film Diversity Analysis |
 
 ---
 
